@@ -20,8 +20,8 @@ Focus Guard is a complete hardware and software solution built from scratch to e
 
 ## 📂 Source Code
 
-* **[Hardware (ESP8266)](Hardware_ESP8266/)**: Contains the complete Arduino sketch for the physical device.
-* **[Android App Source Code](Android_App_Source_Code/)**: Contains the essential source files for the Android app.
+* **[Hardware (ESP8266)](FocusGuard/Hardware_ESP8266/Hardware_ESP8266.ino)**: Contains the complete Arduino sketch for the physical device.
+* **[Android App Source Code](FocusGuard/Android_App)**: Contains the essential source files for the Android app.
     * **Note:** Due to the limitations of the GitHub web uploader, only the core `.kt` and `.xml` source files are included here. The full, buildable Android Studio project is too large to upload via this method.
 
 ## 🚀 Usage
