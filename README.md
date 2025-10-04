@@ -2,7 +2,7 @@
 
 Focus Guard is a complete hardware and software solution built from scratch to eliminate phone distractions and boost productivity. It combines a physical Pomodoro timer with a native Android application for seamless control and statistics tracking.
 
-![Focus Guard Device and App](Media/app_and_hardware.jpg) 
+![Focus Guard Device and App](FocusGuard/media/hardware.jpg) 
 
 ## ✨ Key Features
 
@@ -33,6 +33,20 @@ Focus Guard is a complete hardware and software solution built from scratch to e
 
 ## 🖼️ Media
 
-![App in Dark Mode](Media/app_dark_mode.jpg) 
+![Full Device Enclosure](FocusGuard/media/full%20box.jpg)
 
-![Statistics Screen](Media/stats_screen.jpg) 
+![Focus Session View](FocusGuard/media/focus.jpg)
+
+![Break Time View](FocusGuard/media/break.jpg)
+
+![Focus Mode with Automatic DND](FocusGuard/media/focus2.jpg)
+
+![Break Session and Log](FocusGuard/media/break2.jpg)
+
+![App in Dark Mode](FocusGuard/media/dark.jpg)
+
+![Daily Focus Statistics](FocusGuard/media/stats.jpg)
+
+![Circuit Diagram 1](FocusGuard/media/Ckt_diagram-01.jpg)
+
+![Circuit Diagram 2](FocusGuard/media/Ckt_diagram-02.png)
